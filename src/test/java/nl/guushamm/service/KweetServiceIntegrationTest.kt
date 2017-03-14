@@ -1,6 +1,7 @@
 package nl.guushamm.service
 
 import nl.guushamm.utils.isSameKweet
+import nl.guushamm.utils.testAccount
 import nl.guushamm.utils.testAccounts
 import nl.guushamm.utils.testKweets
 import org.junit.Before
@@ -8,13 +9,16 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
+import org.springframework.security.authentication.UsernamePasswordAuthenticationToken
+import org.springframework.security.core.authority.AuthorityUtils
+import org.springframework.security.core.context.SecurityContextHolder
 import org.springframework.test.annotation.DirtiesContext
-import org.springframework.test.context.junit4.SpringRunner
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner
 
 /**
  * Created by guushamm on 10-3-17.
  */
-@RunWith(SpringRunner::class)
+@RunWith(SpringJUnit4ClassRunner::class)
 @SpringBootTest
 @DirtiesContext(classMode = DirtiesContext.ClassMode.BEFORE_EACH_TEST_METHOD)
 class KweetServiceIntegrationTest {
@@ -29,6 +33,9 @@ class KweetServiceIntegrationTest {
     @Before
     fun setup() {
         accounts.forEach { accountService.save(it) }
+        val account = testAccount()
+        SecurityContextHolder.getContext().authentication = UsernamePasswordAuthenticationToken(account.username,account.password,
+                AuthorityUtils.createAuthorityList(*account.roles))
     }
 
     @Test
@@ -112,7 +119,7 @@ class KweetServiceIntegrationTest {
     fun findByAccountUsername() {
 //        Choose an account and filter out all it's tweets
         val account = accounts.first()
-        val kweetsByAccount = kweets.filter { it.account.id == account.id }
+        val kweetsByAccount = kweets.filter { it.account!!.id == account.id }
 
         kweets.forEach { kweetService.save(it) }
 

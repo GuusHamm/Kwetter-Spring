@@ -4,10 +4,8 @@ import nl.guushamm.domain.Kweet
 import nl.guushamm.repository.KweetRepository
 import nl.guushamm.utils.testKweet
 import nl.guushamm.utils.testKweets
-import nl.guushamm.utils.testKweet
-import nl.guushamm.utils.testKweets
 import org.junit.Before
-import org.junit.Test
+import org.junit.jupiter.api.Test
 import org.mockito.Mockito.*
 import java.util.*
 
@@ -20,10 +18,9 @@ class KweetServiceTest {
     val kweets by lazy { ArrayList<Kweet>() }
 
     @Before
-    @Throws(Exception::class)
     fun setUp() {
-        kweets.addAll(testKweets())
-        kweetService.setKweetRepository(mockedKweetRepository)
+        this.kweets.addAll(testKweets())
+        this.kweetService.setKweetRepository(mockedKweetRepository)
     }
 
     @Test
@@ -40,7 +37,7 @@ class KweetServiceTest {
     @Throws(Exception::class)
     fun save() {
         val kweet: Kweet = testKweet()
-        kweetService.save(kweet)
+        this.kweetService.save(kweet)
 
         verify(mockedKweetRepository).save(kweet)
     }
@@ -62,7 +59,7 @@ class KweetServiceTest {
     fun delete() {
         val id: Long = 0
 
-        kweetService.delete(id)
+        this.kweetService.delete(id)
 
         verify(mockedKweetRepository).delete(id)
     }

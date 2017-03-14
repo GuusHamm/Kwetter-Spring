@@ -1,5 +1,6 @@
 package nl.guushamm.domain
 
+import com.fasterxml.jackson.annotation.JsonIgnore
 import org.joda.time.DateTime
 
 import javax.persistence.*
@@ -11,14 +12,14 @@ class Kweet {
     var id: Long? = null
 
     @Column(nullable = false, length = 140)
-    var message: String? = null
-    var timestamp: DateTime? = null
+    var message: String = ""
+    var timestamp: DateTime = DateTime.now()
     @ManyToOne()
-    lateinit var account: Account
+    var account: Account? = null
+    @Version @JsonIgnore var version: Long = 0
 
     constructor(message: String, account: Account) {
         this.message = message
-        this.timestamp = DateTime.now()
         this.account = account
     }
 

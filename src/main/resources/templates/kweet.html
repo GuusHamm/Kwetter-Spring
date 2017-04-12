@@ -1,0 +1,52 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+
+<div th:fragment="kweet (kweet)">
+    <div class="card" th:object="${kweet}" style="margin-bottom: 5px">
+        <div class="card-header">
+            <a th:text="*{account.username}" th:href="@{/thymeleaf/account(username=${kweet.account.username})}"></a>
+        </div>
+        <div class="card-block">
+            <p class="card-text" th:text="*{message}"></p>
+            <div class="row">
+                <div class="col-sm-3">
+                    <button class="btn">
+                        <i class="fa fa-heart fa-fw"></i>
+                        <span class="badge" th:text="*{hearts.size()}"></span>
+                    </button>
+                </div>
+                <div class="col-sm-3">
+                    <button class="btn">
+                        <i class="fa fa-mail-reply fa-fw"></i>
+                        <span class="badge">0</span>
+                    </button>
+                </div>
+                <div class="col-sm-6">
+                    <p class="text-muted text-right">
+                        <small th:text="*{timestamp}"></small>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div th:fragment="alternate (kweet)">
+    <blockquote class="blockquote-reverse" th:object="${kweet}">
+        <p class="mb-0" th:text="*{message}"></p>
+        <footer class="blockquote-footer">
+            <a th:text="|*{account.username} at *{timestamp}|"
+               th:href="@{/thymeleaf/account(username=*{account.username})}"></a>
+        </footer>
+    </blockquote>
+</div>
+
+<div th:fragment="kweetList">
+    <div th:each="kweet : ${kweets}" id="cards">
+        <div th:include="kweet :: kweet (${kweet})"></div>
+    </div>
+</div>
+e
+</body>
+
+</html>

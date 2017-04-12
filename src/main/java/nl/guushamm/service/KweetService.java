@@ -2,7 +2,6 @@ package nl.guushamm.service;
 
 import nl.guushamm.domain.Kweet;
 import nl.guushamm.repository.KweetRepository;
-import nl.guushamm.domain.Kweet;
 
 import java.util.List;
 
@@ -40,6 +39,13 @@ public interface KweetService {
 	void delete(Long id);
 
 	/**
+	 * Finds kweets based on message
+	 * @param message
+	 * @return
+	 */
+	List<Kweet> findByMessageContaining(String message);
+
+	/**
 	 * Finds kweets based on the username of the account that is associated with them.
 	 *
 	 * @param username Username of the account associated with the kweet.
@@ -47,10 +53,14 @@ public interface KweetService {
 	 */
 	List<Kweet> findByAccountUsername(String username);
 
+	List<Kweet> findAllByIdDesc();
+
 	/**
 	 * Sets the kweetRepository to a specific kweetRepository. Should only be needed in testing.
 	 *
 	 * @param kweetRepository The kweetRepository to be set.
 	 */
 	void setKweetRepository(KweetRepository kweetRepository);
+
+	List<Kweet> findByTrendName(String trend);
 }

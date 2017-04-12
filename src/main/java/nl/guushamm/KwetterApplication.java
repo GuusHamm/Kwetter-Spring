@@ -1,8 +1,11 @@
 package nl.guushamm;
 
 import nl.guushamm.domain.Account;
+import nl.guushamm.domain.Kweet;
 import nl.guushamm.service.AccountService;
+import nl.guushamm.service.HeartService;
 import nl.guushamm.service.KweetService;
+import nl.guushamm.service.TrendService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -30,9 +33,9 @@ public class KwetterApplication extends SpringBootServletInitializer {
 	}
 
 	@Bean
-	public CommandLineRunner demo(AccountService accountService, KweetService kweetService) {
+	public CommandLineRunner demo(AccountService accountService, KweetService kweetService, HeartService heartService, TrendService trendService) {
 		return (args) -> {
-			ArrayList<Account> accounts = testAccounts();
+			ArrayList<Account> accounts = testAccounts(10);
 			accounts.forEach(accountService::save);
 
 			// Login as an admin to create some kweets
@@ -42,7 +45,15 @@ public class KwetterApplication extends SpringBootServletInitializer {
 							AuthorityUtils.createAuthorityList(account.getRoles()))
 			);
 
-			testKweets(50, accounts).forEach(kweetService::save);
+			ArrayList<Kweet> kweets  = testKweets(50, accounts);
+			kweets.forEach(kweetService::save);
+
+			testHearts(100, accounts, kweets).forEach(heartService::save);
+			//
+			// ArrayList<Trend> trends = testTrends(10);
+			// trends.forEach(trendService::save);
+
+			// testKweetTrends(kweets, trends, 20).forEach(kweetService::save);
 			SecurityContextHolder.clearContext();
 		};
 	}

@@ -5,7 +5,6 @@ import groovy.transform.ToString
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
 import org.springframework.security.crypto.password.PasswordEncoder
 import java.io.Serializable
-import java.util.*
 import javax.persistence.*
 
 @Entity
@@ -15,7 +14,7 @@ class Account : Serializable {
     @GeneratedValue(strategy = GenerationType.AUTO)
     var id: Long? = null
 
-    @Column(nullable = false)
+    @Column(nullable = false, unique = true)
     var username: String = ""
     @Column(nullable = false) @JsonIgnore
     var password: String = ""
@@ -29,12 +28,35 @@ class Account : Serializable {
     var location: String = ""
     var website: String = ""
     var roles: Array<String> = arrayOf()
-    @OneToMany() @JsonIgnore
-    private val kweets: Collection<Kweet> = ArrayList()
-    @OneToMany() @JsonIgnore
+    var active: Boolean = false
+
+    @OneToMany(cascade = arrayOf(CascadeType.ALL))
+    @JoinTable(
+            name = "account_kweets",
+            joinColumns = arrayOf(JoinColumn(name = "accountId", referencedColumnName = "id")),
+            inverseJoinColumns = arrayOf(JoinColumn(name = "kweetId", referencedColumnName = "id"))
+    )
+    var kweets: Collection<Kweet> = ArrayList()
+
+
+    @ManyToMany(mappedBy = "following")
+    var followers: Collection<Account> = ArrayList()
+
+    @ManyToMany(cascade = arrayOf(CascadeType.ALL))
+    @JoinTable(
+            name = "followers_following",
+            joinColumns = arrayOf(JoinColumn(name = "followingId", referencedColumnName = "id")),
+            inverseJoinColumns = arrayOf(JoinColumn(name = "followersId", referencedColumnName = "id"))
+    )
     var following: Collection<Account> = ArrayList()
 
-    @Version @JsonIgnore var version: Long = 0
+    @OneToMany(cascade = arrayOf(CascadeType.MERGE))
+    @JoinTable(
+            name= "account_hearts",
+            joinColumns = arrayOf(JoinColumn(name= "accountId", referencedColumnName = "id")),
+            inverseJoinColumns = arrayOf(JoinColumn(name = "heartId", referencedColumnName = "id"))
+    )
+    var hearts: Collection<Heart> = ArrayList()
 
     companion object {
         @JvmStatic fun passwordEncoder(): PasswordEncoder = BCryptPasswordEncoder()

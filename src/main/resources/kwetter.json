@@ -1,0 +1,753 @@
+[
+{"_class": "nl.guushamm.domain.Kweet",  "account_id":"1","message":"Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Zojuist in slaap gevallen bij mijn eigen #FlipTheClassroom filmpje bij #OIB van #FHICT..... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Zojuist in slaap gevallen bij mijn eigen #FlipTheClassroom filmpje bij #OIB van #FHICT..... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Zojuist in slaap gevallen bij mijn eigen #FlipTheClassroom filmpje bij #OIB van #FHICT..... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Zojuist in slaap gevallen bij mijn eigen #FlipTheClassroom filmpje bij #OIB van #FHICT..... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#ASP.NET #MVC maar dan voor #php, bestaat dat ook al? Ziet er handig uit! #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#ASP.NET #MVC maar dan voor #php, bestaat dat ook al? Ziet er handig uit! #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#ASP.NET #MVC maar dan voor #php, bestaat dat ook al? Ziet er handig uit! #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#ASP.NET #MVC maar dan voor #php, bestaat dat ook al? Ziet er handig uit! #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Echt een artikel voor @ericsl #fhict #futureschool Wie wint de strijd om het klaslokaal: de leraar of de computer?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Echt een artikel voor @ericsl #fhict #futureschool Wie wint de strijd om het klaslokaal: de leraar of de computer?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Echt een artikel voor @ericsl #fhict #futureschool Wie wint de strijd om het klaslokaal: de leraar of de computer?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Echt een artikel voor @ericsl #fhict #futureschool Wie wint de strijd om het klaslokaal: de leraar of de computer?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Met de billen bloot bij presentaties @futuremedialabs @ralffleuren #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Met de billen bloot bij presentaties @futuremedialabs @ralffleuren #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Met de billen bloot bij presentaties @futuremedialabs @ralffleuren #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Met de billen bloot bij presentaties @futuremedialabs @ralffleuren #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @Mister_MS: Zo, de eerste #freakyfriday zit erop. Mooie resultaten op #fhict "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#Fontys #FHICT studiecoach #project studenten met #autisme"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#Fontys #FHICT studiecoach #project studenten met #autisme"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#Fontys #FHICT studiecoach #project studenten met #autisme"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#Fontys #FHICT studiecoach #project studenten met #autisme"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"En dan word je als docent ineens misbruikt in IMS presentaties #malware #ethicalhacking #fhict #Fontys "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"En dan word je als docent ineens misbruikt in IMS presentaties #malware #ethicalhacking #fhict #Fontys "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"En dan word je als docent ineens misbruikt in IMS presentaties #malware #ethicalhacking #fhict #Fontys "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"En dan word je als docent ineens misbruikt in IMS presentaties #malware #ethicalhacking #fhict #Fontys "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @FontysBEnT: Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @FontysBEnT: Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @FontysBEnT: Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @FontysBEnT: Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Brainstormen (@ Fontys Hogeschool ICT #FHICT - @fhict) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Brainstormen (@ Fontys Hogeschool ICT #FHICT - @fhict) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Brainstormen (@ Fontys Hogeschool ICT #FHICT - @fhict) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Brainstormen (@ Fontys Hogeschool ICT #FHICT - @fhict) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Bewust traplopen op #Fontys Rachelmolen. Via @fhict :) "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Boren en stank naast examenlokaal. Goeie planning @fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Boren en stank naast examenlokaal. Goeie planning @fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Boren en stank naast examenlokaal. Goeie planning @fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Boren en stank naast examenlokaal. Goeie planning @fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @FHKLefevre: Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @FHKLefevre: Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @FHKLefevre: Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @FHKLefevre: Voor Brand a Band & iFontys @fhict . Was er vroeg bij. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @stratumv: #toetsen bij #FICT een van de onderwerpen: #FutureSchool en innovatie met Miller's Pyramid "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @stratumv: #toetsen bij #FICT een van de onderwerpen: #FutureSchool en innovatie met Miller's Pyramid "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @stratumv: #toetsen bij #FICT een van de onderwerpen: #FutureSchool en innovatie met Miller's Pyramid "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @stratumv: #toetsen bij #FICT een van de onderwerpen: #FutureSchool en innovatie met Miller's Pyramid "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@stratumv en al veel te lang gewerkt?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@stratumv en al veel te lang gewerkt?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@stratumv en al veel te lang gewerkt?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@stratumv en al veel te lang gewerkt?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@stratumv Nieuwe levensfase?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@stratumv Nieuwe levensfase?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@stratumv Nieuwe levensfase?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@stratumv Nieuwe levensfase?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@stratumv @JoeriVanBelle mag ik het filmpje zien. Ik slaap de laatste tijd slecht."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@stratumv @JoeriVanBelle mag ik het filmpje zien. Ik slaap de laatste tijd slecht."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@stratumv @JoeriVanBelle mag ik het filmpje zien. Ik slaap de laatste tijd slecht."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@stratumv @JoeriVanBelle mag ik het filmpje zien. Ik slaap de laatste tijd slecht."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@stratumv youtube ergens?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@stratumv youtube ergens?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@stratumv youtube ergens?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@stratumv youtube ergens?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@erics I will pay you for your twitter handle. Please contact me."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@erics I will pay you for your twitter handle. Please contact me."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@erics I will pay you for your twitter handle. Please contact me."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@erics I will pay you for your twitter handle. Please contact me."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"I'd fuck Dora @erics"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"I'd fuck Dora @erics"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"I'd fuck Dora @erics"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"I'd fuck Dora @erics"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten omdat @NSPYRE_nl @n al 5 jaar onder deze naam successen boekt :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten omdat @NSPYRE_nl @n al 5 jaar onder deze naam successen boekt :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten omdat @NSPYRE_nl @n al 5 jaar onder deze naam successen boekt :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten omdat @NSPYRE_nl @n al 5 jaar onder deze naam successen boekt :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@FleurBesters @renatevanoosten @Kinderplein @FIRSTbrabant Voor JrFLL heb je slechts 4 tot 6 kids en een enthousiaste PMer nodig. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@FleurBesters @renatevanoosten @Kinderplein @FIRSTbrabant Voor JrFLL heb je slechts 4 tot 6 kids en een enthousiaste PMer nodig. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@FleurBesters @renatevanoosten @Kinderplein @FIRSTbrabant Voor JrFLL heb je slechts 4 tot 6 kids en een enthousiaste PMer nodig. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@FleurBesters @renatevanoosten @Kinderplein @FIRSTbrabant Voor JrFLL heb je slechts 4 tot 6 kids en een enthousiaste PMer nodig. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten @johnvanders was mss een mooie kans voor @helmondmarketing geweest :-) dan was mijn 'geen commentaar' wat karig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten @johnvanders was mss een mooie kans voor @helmondmarketing geweest :-) dan was mijn 'geen commentaar' wat karig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten @johnvanders was mss een mooie kans voor @helmondmarketing geweest :-) dan was mijn 'geen commentaar' wat karig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten @johnvanders was mss een mooie kans voor @helmondmarketing geweest :-) dan was mijn 'geen commentaar' wat karig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @renatevanoosten: Heeft iemand een idee wie de 46-jarige verdachte uit #helmond is in de zaak #nicolevandenhurk "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @renatevanoosten: Heeft iemand een idee wie de 46-jarige verdachte uit #helmond is in de zaak #nicolevandenhurk "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @renatevanoosten: Heeft iemand een idee wie de 46-jarige verdachte uit #helmond is in de zaak #nicolevandenhurk "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @renatevanoosten: Heeft iemand een idee wie de 46-jarige verdachte uit #helmond is in de zaak #nicolevandenhurk "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten Cultuurbarbaar!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten Cultuurbarbaar!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten Cultuurbarbaar!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten Cultuurbarbaar!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten @PerryVermeulen haha dank!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten @PerryVermeulen haha dank!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten @PerryVermeulen haha dank!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten @PerryVermeulen haha dank!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten hoi Renate, welkom op mijn timeline :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten hoi Renate, welkom op mijn timeline :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten hoi Renate, welkom op mijn timeline :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten hoi Renate, welkom op mijn timeline :-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten @GeertVogels het is de lijst van Helmonds erfgoed gekomen. Ze hadden niks anders. Van Aerle wilde niet #helmondgezellig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten @GeertVogels het is de lijst van Helmonds erfgoed gekomen. Ze hadden niks anders. Van Aerle wilde niet #helmondgezellig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten @GeertVogels het is de lijst van Helmonds erfgoed gekomen. Ze hadden niks anders. Van Aerle wilde niet #helmondgezellig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten @GeertVogels het is de lijst van Helmonds erfgoed gekomen. Ze hadden niks anders. Van Aerle wilde niet #helmondgezellig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten @GeertVogels Wellicht verklaart dit iets: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten @GeertVogels Wellicht verklaart dit iets: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten @GeertVogels Wellicht verklaart dit iets: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten @GeertVogels Wellicht verklaart dit iets: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten @Kinderplein @FIRSTbrabant dat zou geweldig zijn, maar onze bso blijkt te klein voor dergelijke dingen, jammer genoeg"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten @Kinderplein @FIRSTbrabant dat zou geweldig zijn, maar onze bso blijkt te klein voor dergelijke dingen, jammer genoeg"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten @Kinderplein @FIRSTbrabant dat zou geweldig zijn, maar onze bso blijkt te klein voor dergelijke dingen, jammer genoeg"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten @Kinderplein @FIRSTbrabant dat zou geweldig zijn, maar onze bso blijkt te klein voor dergelijke dingen, jammer genoeg"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten Telefoon een keer opnieuw opstarten werkt bij mij vaak goed..."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten Telefoon een keer opnieuw opstarten werkt bij mij vaak goed..."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten Telefoon een keer opnieuw opstarten werkt bij mij vaak goed..."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten Telefoon een keer opnieuw opstarten werkt bij mij vaak goed..."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten ik ben trouwens ook blij met Helmond hoor ;-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten ik ben trouwens ook blij met Helmond hoor ;-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten ik ben trouwens ook blij met Helmond hoor ;-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten ik ben trouwens ook blij met Helmond hoor ;-)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten @Microsoft @APPLEOFFIClAL zoiets ja ??"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten @Microsoft @APPLEOFFIClAL zoiets ja ??"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten @Microsoft @APPLEOFFIClAL zoiets ja ??"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten @Microsoft @APPLEOFFIClAL zoiets ja ??"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@renatevanoosten heb je ondertiteling bij deze formule?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@renatevanoosten heb je ondertiteling bij deze formule?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@renatevanoosten heb je ondertiteling bij deze formule?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@renatevanoosten heb je ondertiteling bij deze formule?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @JanOonkFHICT: Per direct op zoek naar een Unity expert voor onze FHICT GD&T studenten voor 2dg/wk #fhict #gdt #vacature #fontys"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@Bramboos @FontyslCT We hebben ook gewoon retina-MacBooks hoor ;). En computerlokalen doen we niet aan."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@Bramboos @FontyslCT We hebben ook gewoon retina-MacBooks hoor ;). En computerlokalen doen we niet aan."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@Bramboos @FontyslCT We hebben ook gewoon retina-MacBooks hoor ;). En computerlokalen doen we niet aan."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@Bramboos @FontyslCT We hebben ook gewoon retina-MacBooks hoor ;). En computerlokalen doen we niet aan."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@Bramboos Bij @FontyslCT valt dat behoorlijk mee hoor :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@Bramboos Bij @FontyslCT valt dat behoorlijk mee hoor :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@Bramboos Bij @FontyslCT valt dat behoorlijk mee hoor :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@Bramboos Bij @FontyslCT valt dat behoorlijk mee hoor :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@FontyslCT Beter dan honderden kroketten die over de mail gaan...."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@FontyslCT Beter dan honderden kroketten die over de mail gaan...."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@FontyslCT Beter dan honderden kroketten die over de mail gaan...."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@FontyslCT Beter dan honderden kroketten die over de mail gaan...."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@erdincsacan dit is misschien een goede viral voor bk12."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@erdincsacan dit is misschien een goede viral voor bk12."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@erdincsacan dit is misschien een goede viral voor bk12."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@erdincsacan dit is misschien een goede viral voor bk12."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: \"Raise our hands\" by @KarsuDonmez https://t.co/0TDrr2umZ7"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: \"Raise our hands\" by @KarsuDonmez https://t.co/0TDrr2umZ7"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: \"Raise our hands\" by @KarsuDonmez https://t.co/0TDrr2umZ7"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: \"Raise our hands\" by @KarsuDonmez https://t.co/0TDrr2umZ7"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@erdincsacan successful people :  read everyday, talk about ideas and  share information and data = Twitter.. Not same as 'Watch TV' :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@erdincsacan successful people :  read everyday, talk about ideas and  share information and data = Twitter.. Not same as 'Watch TV' :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@erdincsacan successful people :  read everyday, talk about ideas and  share information and data = Twitter.. Not same as 'Watch TV' :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@erdincsacan successful people :  read everyday, talk about ideas and  share information and data = Twitter.. Not same as 'Watch TV' :)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Watching TV every day makes people unsuccessful! What about twitter every day :-) Great do's & dont's for success! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Google's eerste medische gadget! Een contactlens voor diabetici die de suikerspiegel meet"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @erdincsacan: Aangeboden: goed idee. Gezocht: sponsor. Tien kansrijke idee�n. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf Board voor prototyping om te kijken wat de mogelijkheden met V-USB zijn. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf Board voor prototyping om te kijken wat de mogelijkheden met V-USB zijn. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf Board voor prototyping om te kijken wat de mogelijkheden met V-USB zijn. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf Board voor prototyping om te kijken wat de mogelijkheden met V-USB zijn. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Oh, dat is wel heel klote. In de vorige versie was hij wel voor de tablet gemaakt toch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Oh, dat is wel heel klote. In de vorige versie was hij wel voor de tablet gemaakt toch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Oh, dat is wel heel klote. In de vorige versie was hij wel voor de tablet gemaakt toch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Oh, dat is wel heel klote. In de vorige versie was hij wel voor de tablet gemaakt toch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Dik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Dik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Dik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Dik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf Np!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf Np!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf Np!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf Np!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Dat is al helemaal raar. :/"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Dat is al helemaal raar. :/"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Dat is al helemaal raar. :/"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Dat is al helemaal raar. :/"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Vooral op Android, waarbij je rekening moet houden met verschillende resoluties."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Vooral op Android, waarbij je rekening moet houden met verschillende resoluties."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Vooral op Android, waarbij je rekening moet houden met verschillende resoluties."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Vooral op Android, waarbij je rekening moet houden met verschillende resoluties."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Wat is het trouwens voor app? Eigen projectje?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Wat is het trouwens voor app? Eigen projectje?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Wat is het trouwens voor app? Eigen projectje?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Wat is het trouwens voor app? Eigen projectje?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Oh, werkt de originele Twitter app dan zo slecht?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Oh, werkt de originele Twitter app dan zo slecht?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Oh, werkt de originele Twitter app dan zo slecht?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Oh, werkt de originele Twitter app dan zo slecht?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf Bedankt voor het melden. Het probleem is opgelost; @Fontys studenten kunnen zich nu zonder problemen registreren!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf Bedankt voor het melden. Het probleem is opgelost; @Fontys studenten kunnen zich nu zonder problemen registreren!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf Bedankt voor het melden. Het probleem is opgelost; @Fontys studenten kunnen zich nu zonder problemen registreren!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf Bedankt voor het melden. Het probleem is opgelost; @Fontys studenten kunnen zich nu zonder problemen registreren!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf volgens mij wordt jullie nieuwe Twitter client echt vet!! #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf volgens mij wordt jullie nieuwe Twitter client echt vet!! #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf volgens mij wordt jullie nieuwe Twitter client echt vet!! #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf volgens mij wordt jullie nieuwe Twitter client echt vet!! #fhict"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf stofzuigerception :|"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf stofzuigerception :|"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf stofzuigerception :|"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf stofzuigerception :|"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf toch jammer, ziet er nu al mooi uit."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf toch jammer, ziet er nu al mooi uit."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf toch jammer, ziet er nu al mooi uit."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf toch jammer, ziet er nu al mooi uit."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@marijnvdwerf Hmm, ok�."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@marijnvdwerf Hmm, ok�."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@marijnvdwerf Hmm, ok�."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@marijnvdwerf Hmm, ok�."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf Ze beiden de optie wel aan, heb het ook gebruikt maar kan het dus niet terugzetten."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf Ze beiden de optie wel aan, heb het ook gebruikt maar kan het dus niet terugzetten."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf Ze beiden de optie wel aan, heb het ook gebruikt maar kan het dus niet terugzetten."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf Ze beiden de optie wel aan, heb het ook gebruikt maar kan het dus niet terugzetten."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@MarijnvdWerf betekend toch niet dat het daarna ophoud? Je kan hem toch alsnog afmaken en in de playstore zetten? Mag ik ook testen?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@MarijnvdWerf betekend toch niet dat het daarna ophoud? Je kan hem toch alsnog afmaken en in de playstore zetten? Mag ik ook testen?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@MarijnvdWerf betekend toch niet dat het daarna ophoud? Je kan hem toch alsnog afmaken en in de playstore zetten? Mag ik ook testen?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@MarijnvdWerf betekend toch niet dat het daarna ophoud? Je kan hem toch alsnog afmaken en in de playstore zetten? Mag ik ook testen?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@bweijer toen ik begon was het nog geen +8, maar de monteur is al bezig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@bweijer toen ik begon was het nog geen +8, maar de monteur is al bezig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@bweijer toen ik begon was het nog geen +8, maar de monteur is al bezig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@bweijer toen ik begon was het nog geen +8, maar de monteur is al bezig"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@bweijer ha,ha, bedankt voor de foto Bart!!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@bweijer ha,ha, bedankt voor de foto Bart!!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@bweijer ha,ha, bedankt voor de foto Bart!!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@bweijer ha,ha, bedankt voor de foto Bart!!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Hi @bweijer, please confirm receipt of my email. Thanks"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Hi @bweijer, please confirm receipt of my email. Thanks"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Hi @bweijer, please confirm receipt of my email. Thanks"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Hi @bweijer, please confirm receipt of my email. Thanks"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@bweijer da's ook heel vervelend, als je altijd wilt bellen. Vraag het @Antennebureau #umts #waalre"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@bweijer da's ook heel vervelend, als je altijd wilt bellen. Vraag het @Antennebureau #umts #waalre"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@bweijer da's ook heel vervelend, als je altijd wilt bellen. Vraag het @Antennebureau #umts #waalre"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@bweijer da's ook heel vervelend, als je altijd wilt bellen. Vraag het @Antennebureau #umts #waalre"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @bweijer: #Fontys #DienstIT vandaag over op nieuwe Clientele @Mproof. "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Senior JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Senior JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Senior JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Senior JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Senior UX Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Senior UX Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Senior UX Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Senior UX Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"-emg gue artis keless #ICT :v RT @vhadeeel"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"-emg gue artis keless #ICT :v RT @vhadeeel"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"-emg gue artis keless #ICT :v RT @vhadeeel"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"-emg gue artis keless #ICT :v RT @vhadeeel"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"????????? iPhone ???????9?10??????11???2??????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"????????? iPhone ???????9?10??????11???2??????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"????????? iPhone ???????9?10??????11???2??????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"????????? iPhone ???????9?10??????11???2??????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Senior Java Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Senior Java Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Senior Java Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Senior Java Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"???????????iPhone??????????????????????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"???????????iPhone??????????????????????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"???????????iPhone??????????????????????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"???????????iPhone??????????????????????IT???? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Sr. Product Manager - Digital Marketing Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Sr. Product Manager - Digital Marketing Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Sr. Product Manager - Digital Marketing Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Sr. Product Manager - Digital Marketing Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Chief Technical Officer (CTO) Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Chief Technical Officer (CTO) Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Chief Technical Officer (CTO) Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Chief Technical Officer (CTO) Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"VP Products Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"VP Products Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"VP Products Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"VP Products Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"(Senior) Frontend Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"(Senior) Frontend Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"(Senior) Frontend Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"(Senior) Frontend Consultant Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Frontend Developer Evangelist Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Frontend Developer Evangelist Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Frontend Developer Evangelist Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Frontend Developer Evangelist Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Quobell zoekt een Oracle DBA/Fusion Middleware Specialist | Houten | #vacature | #ICT "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Quobell zoekt een Oracle DBA/Fusion Middleware Specialist | Houten | #vacature | #ICT "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Quobell zoekt een Oracle DBA/Fusion Middleware Specialist | Houten | #vacature | #ICT "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Quobell zoekt een Oracle DBA/Fusion Middleware Specialist | Houten | #vacature | #ICT "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Lead JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Lead JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Lead JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Lead JS Frontend Developer Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Senior Intern Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Senior Intern Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Senior Intern Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Senior Intern Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Sr. Product Manager - Portal &amp; WCM Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Sr. Product Manager - Portal &amp; WCM Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Sr. Product Manager - Portal &amp; WCM Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Sr. Product Manager - Portal &amp; WCM Backbase Amsterdam "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@ICT_Actueel Waanzinnig leuk dat je me (terug)volgt. Hartelijk welkom. Groet, Erik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@ICT_Actueel Waanzinnig leuk dat je me (terug)volgt. Hartelijk welkom. Groet, Erik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@ICT_Actueel Waanzinnig leuk dat je me (terug)volgt. Hartelijk welkom. Groet, Erik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@ICT_Actueel Waanzinnig leuk dat je me (terug)volgt. Hartelijk welkom. Groet, Erik"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"\"This Year We Go to War for #NetNeutrality\" | Pendant ce temps en EU, @NeelieKroesEU parle et fait le contraire... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"\"This Year We Go to War for #NetNeutrality\" | Pendant ce temps en EU, @NeelieKroesEU parle et fait le contraire... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"\"This Year We Go to War for #NetNeutrality\" | Pendant ce temps en EU, @NeelieKroesEU parle et fait le contraire... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"\"This Year We Go to War for #NetNeutrality\" | Pendant ce temps en EU, @NeelieKroesEU parle et fait le contraire... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @NeelieKroesEU: @EP_Environment Good news #eHealth action plan is endorsed! See my statement of congrats "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @NeelieKroesEU: @EP_Environment Good news #eHealth action plan is endorsed! See my statement of congrats "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @NeelieKroesEU: @EP_Environment Good news #eHealth action plan is endorsed! See my statement of congrats "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @NeelieKroesEU: @EP_Environment Good news #eHealth action plan is endorsed! See my statement of congrats "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @NeelieKroesEU: @StefanVoinea I agree #NetNeutrality"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @NeelieKroesEU: @StefanVoinea I agree #NetNeutrality"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @NeelieKroesEU: @StefanVoinea I agree #NetNeutrality"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @NeelieKroesEU: @StefanVoinea I agree #NetNeutrality"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#Cloud #Security #Checklist: Make Sure Your #Data Is #Safe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#Cloud #Security #Checklist: Make Sure Your #Data Is #Safe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#Cloud #Security #Checklist: Make Sure Your #Data Is #Safe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#Cloud #Security #Checklist: Make Sure Your #Data Is #Safe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @WeldPond: Great piece by @nicoleperlroth on some of the emerging new guard in #security No better time 2 be a security upstart! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @WeldPond: Great piece by @nicoleperlroth on some of the emerging new guard in #security No better time 2 be a security upstart! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @WeldPond: Great piece by @nicoleperlroth on some of the emerging new guard in #security No better time 2 be a security upstart! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @WeldPond: Great piece by @nicoleperlroth on some of the emerging new guard in #security No better time 2 be a security upstart! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#Eventprof #Safety & #Security News is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#Eventprof #Safety & #Security News is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#Eventprof #Safety & #Security News is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#Eventprof #Safety & #Security News is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"This VPN provider unblocks Facebook, Twitter, Youtube wherever you are: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Everything You Need to Know About #INTERNET #SECURITY and #PRIVACY - Bob Rankin "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Everything You Need to Know About #INTERNET #SECURITY and #PRIVACY - Bob Rankin "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Everything You Need to Know About #INTERNET #SECURITY and #PRIVACY - Bob Rankin "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Everything You Need to Know About #INTERNET #SECURITY and #PRIVACY - Bob Rankin "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Academic Readings on Terrorism, free downloads in 2014  #security #terrorism #free "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Academic Readings on Terrorism, free downloads in 2014  #security #terrorism #free "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Academic Readings on Terrorism, free downloads in 2014  #security #terrorism #free "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Academic Readings on Terrorism, free downloads in 2014  #security #terrorism #free "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#computer #security Microsoft will continue to offer its malware scrubbing program to Windows\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#computer #security Microsoft will continue to offer its malware scrubbing program to Windows\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#computer #security Microsoft will continue to offer its malware scrubbing program to Windows\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#computer #security Microsoft will continue to offer its malware scrubbing program to Windows\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Seven Deadly #Internet #Security Sins - Protect yourself from malware infection or identity theft by avoiding... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Seven Deadly #Internet #Security Sins - Protect yourself from malware infection or identity theft by avoiding... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Seven Deadly #Internet #Security Sins - Protect yourself from malware infection or identity theft by avoiding... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Seven Deadly #Internet #Security Sins - Protect yourself from malware infection or identity theft by avoiding... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"\u201c???PC????????????????????? : ????????????\u201d "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"\u201c???PC????????????????????? : ????????????\u201d "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"\u201c???PC????????????????????? : ????????????\u201d "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"\u201c???PC????????????????????? : ????????????\u201d "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"App f�r Android und iPhone mit #Security-News vom #BSI "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"App f�r Android und iPhone mit #Security-News vom #BSI "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"App f�r Android und iPhone mit #Security-News vom #BSI "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"App f�r Android und iPhone mit #Security-News vom #BSI "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Target strives to limit damage to its reputation in wake of holiday data #breach "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Target strives to limit damage to its reputation in wake of holiday data #breach "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Target strives to limit damage to its reputation in wake of holiday data #breach "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Target strives to limit damage to its reputation in wake of holiday data #breach "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Mobile shopping doubles - Shopsafe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Mobile shopping doubles - Shopsafe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Mobile shopping doubles - Shopsafe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Mobile shopping doubles - Shopsafe "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"???????????????????  #mobile"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"???????????????????  #mobile"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"???????????????????  #mobile"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"???????????????????  #mobile"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"In exactly two weeks, the team will be setting up @waters_edge Williamsburg! #mobile #countdowntoWECW #letsgo"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"In exactly two weeks, the team will be setting up @waters_edge Williamsburg! #mobile #countdowntoWECW #letsgo"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"In exactly two weeks, the team will be setting up @waters_edge Williamsburg! #mobile #countdowntoWECW #letsgo"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"In exactly two weeks, the team will be setting up @waters_edge Williamsburg! #mobile #countdowntoWECW #letsgo"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @amantechnology: Why running Windows 8 on a Mac is better than running it on a PC "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @amantechnology: Why running Windows 8 on a Mac is better than running it on a PC "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @amantechnology: Why running Windows 8 on a Mac is better than running it on a PC "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @amantechnology: Why running Windows 8 on a Mac is better than running it on a PC "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#Development #design Weekly #Mobile Scoop \u2013 1-14-2014 \u2013 #Mobile #App Use Grows 115% in 2013 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#Development #design Weekly #Mobile Scoop \u2013 1-14-2014 \u2013 #Mobile #App Use Grows 115% in 2013 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#Development #design Weekly #Mobile Scoop \u2013 1-14-2014 \u2013 #Mobile #App Use Grows 115% in 2013 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#Development #design Weekly #Mobile Scoop \u2013 1-14-2014 \u2013 #Mobile #App Use Grows 115% in 2013 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@AlexanderNL @UniversiteitNL bedankt voor de interessante colleges, 'k hoop dat er nog vele volgen. (Hoogleraren ?????)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@AlexanderNL @UniversiteitNL bedankt voor de interessante colleges, 'k hoop dat er nog vele volgen. (Hoogleraren ?????)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@AlexanderNL @UniversiteitNL bedankt voor de interessante colleges, 'k hoop dat er nog vele volgen. (Hoogleraren ?????)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@AlexanderNL @UniversiteitNL bedankt voor de interessante colleges, 'k hoop dat er nog vele volgen. (Hoogleraren ?????)"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@AlexanderNL @AgeethTelleman zijn eerdere werk is ook heel goed. Deze ga ik snel kopen!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@AlexanderNL @AgeethTelleman zijn eerdere werk is ook heel goed. Deze ga ik snel kopen!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@AlexanderNL @AgeethTelleman zijn eerdere werk is ook heel goed. Deze ga ik snel kopen!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@AlexanderNL @AgeethTelleman zijn eerdere werk is ook heel goed. Deze ga ik snel kopen!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Geweldig, in 1 keer uitgelezen @AlexanderNL Wat is The Circle van Dave Eggers een ontzettend tof boek."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Geweldig, in 1 keer uitgelezen @AlexanderNL Wat is The Circle van Dave Eggers een ontzettend tof boek."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Geweldig, in 1 keer uitgelezen @AlexanderNL Wat is The Circle van Dave Eggers een ontzettend tof boek."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Geweldig, in 1 keer uitgelezen @AlexanderNL Wat is The Circle van Dave Eggers een ontzettend tof boek."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Kijktip voor het weekend: Leuk om te kijken nav het Juncto-artikel over drones: #dwdduniversity pt.3 met @AlexanderNL Razend interessant!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Kijktip voor het weekend: Leuk om te kijken nav het Juncto-artikel over drones: #dwdduniversity pt.3 met @AlexanderNL Razend interessant!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Kijktip voor het weekend: Leuk om te kijken nav het Juncto-artikel over drones: #dwdduniversity pt.3 met @AlexanderNL Razend interessant!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Kijktip voor het weekend: Leuk om te kijken nav het Juncto-artikel over drones: #dwdduniversity pt.3 met @AlexanderNL Razend interessant!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@fransthijssen #ff @AlexanderNL"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@fransthijssen #ff @AlexanderNL"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@fransthijssen #ff @AlexanderNL"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@fransthijssen #ff @AlexanderNL"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@AlexanderNL ben halverwege, maar vind het wat ongeloofwaardig. Na�ef meisje gaat werken bij sekte... Niet echt realistisch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@AlexanderNL ben halverwege, maar vind het wat ongeloofwaardig. Na�ef meisje gaat werken bij sekte... Niet echt realistisch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@AlexanderNL ben halverwege, maar vind het wat ongeloofwaardig. Na�ef meisje gaat werken bij sekte... Niet echt realistisch?"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@AlexanderNL en dat mij moeder luistert naar AlexanderNL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@AlexanderNL en dat mij moeder luistert naar AlexanderNL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@AlexanderNL en dat mij moeder luistert naar AlexanderNL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@AlexanderNL en dat mij moeder luistert naar AlexanderNL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @AlexanderNL: Disney trackt bezoekers door de parken met RFID-polsbandjes. Erg gave data, maar wat freak... "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT \u201c@javacodegeeks Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT \u201c@javacodegeeks Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT \u201c@javacodegeeks Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT \u201c@javacodegeeks Turning #Twitter4j into #RxJava's Observable - #EnterpriseJava #Twitter "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: Hello World Example with #Jsf 2.0 - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Evolving #Gradle Build from Ant Build: Importing Ant Build File - #EnterpriseJava  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@agambrahma For more such \"serious\" #enterprisejava code see https://t.co/EA3rkOqvJJ"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@agambrahma For more such \"serious\" #enterprisejava code see https://t.co/EA3rkOqvJJ"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@agambrahma For more such \"serious\" #enterprisejava code see https://t.co/EA3rkOqvJJ"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@agambrahma For more such \"serious\" #enterprisejava code see https://t.co/EA3rkOqvJJ"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: Using Google #Gson : Extra Goodies : Part I - #EnterpriseJava #JSON "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: Using Google #Gson : Extra Goodies : Part I - #EnterpriseJava #JSON "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: Using Google #Gson : Extra Goodies : Part I - #EnterpriseJava #JSON "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: Using Google #Gson : Extra Goodies : Part I - #EnterpriseJava #JSON "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: #Spring Integration Publisher - #EnterpriseJava #SpringIntegration "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Sunrise Bromo #bromo #mountain #java #indonesia @ gunung bromo "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Sunrise Bromo #bromo #mountain #java #indonesia @ gunung bromo "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Sunrise Bromo #bromo #mountain #java #indonesia @ gunung bromo "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Sunrise Bromo #bromo #mountain #java #indonesia @ gunung bromo "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: 21 signs of BAD MANAGERS I met in my career as a software manager | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: 21 signs of BAD MANAGERS I met in my career as a software manager | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: 21 signs of BAD MANAGERS I met in my career as a software manager | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: 21 signs of BAD MANAGERS I met in my career as a software manager | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: How to clean project with #Maven example | Examples #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: How to clean project with #Maven example | Examples #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: How to clean project with #Maven example | Examples #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: How to clean project with #Maven example | Examples #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: The narrow path between best practices and over-engineering | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: The narrow path between best practices and over-engineering | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: The narrow path between best practices and over-engineering | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: The narrow path between best practices and over-engineering | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: A #JUnit Rule to Conditionally Ignore Tests | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: A #JUnit Rule to Conditionally Ignore Tests | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: A #JUnit Rule to Conditionally Ignore Tests | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: A #JUnit Rule to Conditionally Ignore Tests | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"@mochrahadian #Live #Concert at #Bandung #West #Java #Indonesia #Pop #Rock #Heavy #Metal #Music\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"@mochrahadian #Live #Concert at #Bandung #West #Java #Indonesia #Pop #Rock #Heavy #Metal #Music\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"@mochrahadian #Live #Concert at #Bandung #West #Java #Indonesia #Pop #Rock #Heavy #Metal #Music\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"@mochrahadian #Live #Concert at #Bandung #West #Java #Indonesia #Pop #Rock #Heavy #Metal #Music\u2026 "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"JavaFX - Softwareentwicklung im technischen Umfeld w/ #Java #JavaFX skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"JavaFX - Softwareentwicklung im technischen Umfeld w/ #Java #JavaFX skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"JavaFX - Softwareentwicklung im technischen Umfeld w/ #Java #JavaFX skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"JavaFX - Softwareentwicklung im technischen Umfeld w/ #Java #JavaFX skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Apply Today: Automation Architect  in Bradenton, FL in Bradenton, FL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Apply Today: Automation Architect  in Bradenton, FL in Bradenton, FL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Apply Today: Automation Architect  in Bradenton, FL in Bradenton, FL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Apply Today: Automation Architect  in Bradenton, FL in Bradenton, FL "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Embedded Softwareentwicklung w/ #C #Java skills Jena @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Embedded Softwareentwicklung w/ #C #Java skills Jena @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Embedded Softwareentwicklung w/ #C #Java skills Jena @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Embedded Softwareentwicklung w/ #C #Java skills Jena @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Caffeine Can Boost Memory By @shaunacysays "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Caffeine Can Boost Memory By @shaunacysays "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Caffeine Can Boost Memory By @shaunacysays "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Caffeine Can Boost Memory By @shaunacysays "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"How get method of HashMap or Hashtable works internally in Java "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"How get method of HashMap or Hashtable works internally in Java "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"How get method of HashMap or Hashtable works internally in Java "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"How get method of HashMap or Hashtable works internally in Java "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Java Entwicklung E-Commerce / Hybris w/ #eCommerce #Java skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Java Entwicklung E-Commerce / Hybris w/ #eCommerce #Java skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Java Entwicklung E-Commerce / Hybris w/ #eCommerce #Java skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Java Entwicklung E-Commerce / Hybris w/ #eCommerce #Java skills Germany @p2people "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @japi999: Good #security report by @Cisco. Get rid of #Java and protect those #Android devices, https://t.co/WkKK29qWCr"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: Stacktraces are telling the truth. But not the whole truth. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: Stacktraces are telling the truth. But not the whole truth. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: Stacktraces are telling the truth. But not the whole truth. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: Stacktraces are telling the truth. But not the whole truth. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Arriba el @Glassfish y que el @apache siga corriendo."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Arriba el @Glassfish y que el @apache siga corriendo."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Arriba el @Glassfish y que el @apache siga corriendo."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Arriba el @Glassfish y que el @apache siga corriendo."}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Pigbar Daily-Tech is out! "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: GlassFish commercial supported versions - January updates https://t.co/XDwy3No9O0"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Hello @glassfish fans, here is the Glassfish page at @ZEEFcom: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"#JBoss vs #GlassFish: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"#JBoss vs #GlassFish: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"#JBoss vs #GlassFish: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"#JBoss vs #GlassFish: "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @glassfish: Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Upgrade to #Glassfish 4 and #JavaEE7 done!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Upgrade to #Glassfish 4 and #JavaEE7 done!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Upgrade to #Glassfish 4 and #JavaEE7 done!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Upgrade to #Glassfish 4 and #JavaEE7 done!"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @Julia071088: #glassfish ????? ?? ??????? ??????? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @Julia071088: #glassfish ????? ?? ??????? ??????? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @Julia071088: #glassfish ????? ?? ??????? ??????? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @Julia071088: #glassfish ????? ?? ??????? ??????? "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Watch #GlassFish UG last event's presentations by @agoncal Come and Play! with #JavaEE 7 & New features of #JavaEE7  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Watch #GlassFish UG last event's presentations by @agoncal Come and Play! with #JavaEE 7 & New features of #JavaEE7  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Watch #GlassFish UG last event's presentations by @agoncal Come and Play! with #JavaEE 7 & New features of #JavaEE7  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Watch #GlassFish UG last event's presentations by @agoncal Come and Play! with #JavaEE 7 & New features of #JavaEE7  "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Everything you ever wanted to know about installing #BonitaBPM on #glassfish #applicationserver & #postgresql #db, "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Everything you ever wanted to know about installing #BonitaBPM on #glassfish #applicationserver & #postgresql #db, "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Everything you ever wanted to know about installing #BonitaBPM on #glassfish #applicationserver & #postgresql #db, "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Everything you ever wanted to know about installing #BonitaBPM on #glassfish #applicationserver & #postgresql #db, "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"Java EE@Nanjing Software Valley China: https://t.co/IAdiMiaaa5 via @GlassFishTang, @reza_rahman #javaee7 #glassfish"}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"1","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"2","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"3","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+,{"_class": "nl.guushamm.domain.Kweet", "account_id":"4","message":"RT @javacodegeeks: R.I.P. #GlassFish - Thanks for all the fish. | #Java Code Geeks "}
+]

@@ -1,25 +1,34 @@
 package nl.guushamm.domain
 
-import org.joda.time.DateTime
-
 import javax.persistence.*
 
 @Entity
 class Heart {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private val id: Long = 0
+    var id: Long? = null
 
-    @ManyToOne
-    var account: Account? = null
-    @ManyToOne
-    var kweet: Kweet? = null
-    var timestamp: DateTime? = null
+    @OneToOne()
+    @JoinTable(
+            name= "account_hearts",
+            joinColumns = arrayOf(JoinColumn(name= "heartId", referencedColumnName = "id")),
+            inverseJoinColumns = arrayOf(JoinColumn(name = "accountId", referencedColumnName = "id"))
+    )
+    lateinit var account: Account
 
-    constructor(account: Account, kweet: Kweet) {
+    @OneToOne()
+    @JoinTable(
+            name= "kweet_hearts",
+            joinColumns = arrayOf(JoinColumn(name= "heartId", referencedColumnName = "id")),
+            inverseJoinColumns = arrayOf(JoinColumn(name = "kweetId", referencedColumnName = "id"))
+    )
+    lateinit var kweet: Kweet
+    var timestamp: Long = 0
+
+    constructor(account: Account, kweet: Kweet, timestamp: Long = 0) {
         this.account = account
         this.kweet = kweet
-        this.timestamp = DateTime.now()
+        this.timestamp = timestamp
     }
 
     constructor() {

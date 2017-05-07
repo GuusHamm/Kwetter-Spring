@@ -38,14 +38,15 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 		http
 				.addFilterBefore(new CorsFilter(corsConfigurationSource()), ChannelProcessingFilter.class)
 				.authorizeRequests()
-					.antMatchers("built/**", "/main.css").permitAll()
+					.antMatchers("built/**", "/main.css","/websocket/**").permitAll()
+					// .antMatchers("built/**", "/main.css","info**","/info**").permitAll()
 					.anyRequest().authenticated()
 					.and()
 				.formLogin()
 					.defaultSuccessUrl("/thymeleaf/", true)
 					.permitAll()
 					.and()
-				.httpBasic()
+					.httpBasic()
 					.and()
 				.csrf().disable()
 				.logout()
@@ -55,9 +56,10 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 	@Bean
 	CorsConfigurationSource corsConfigurationSource() {
 		CorsConfiguration configuration = new CorsConfiguration();
-		configuration.setAllowedOrigins(Arrays.asList("*"));
+		configuration.setAllowedOrigins(Arrays.asList("http://localhost:4200"));
 		configuration.setAllowedMethods(Arrays.asList("GET","POST","OPTIONS"));
 		configuration.setAllowedHeaders(Arrays.asList("Authorization", "Content-Type"));
+		configuration.setAllowCredentials(true);
 		UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
 		source.registerCorsConfiguration("/**", configuration);
 		return source;

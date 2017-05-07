@@ -5,8 +5,11 @@ import nl.guushamm.domain.Trend
 import nl.guushamm.service.AccountService
 import nl.guushamm.service.TrendService
 import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.data.rest.core.annotation.HandleAfterCreate
+import org.springframework.data.rest.core.annotation.HandleAfterSave
 import org.springframework.data.rest.core.annotation.HandleBeforeCreate
 import org.springframework.data.rest.core.annotation.RepositoryEventHandler
+import org.springframework.messaging.simp.SimpMessagingTemplate
 import org.springframework.security.core.context.SecurityContext
 import org.springframework.security.core.context.SecurityContextHolder
 import org.springframework.stereotype.Component
@@ -25,10 +28,13 @@ open class KweetHandler {
     @Autowired
     lateinit var trendService: TrendService
 
+    @Autowired
+    lateinit var simpMessagingTemplate: SimpMessagingTemplate
+
     @HandleBeforeCreate
     fun handleKweetBeforeCreate(kweet: Kweet) {
-        val securityContext: SecurityContext? = SecurityContextHolder.getContext()
-        if (securityContext != null) {
+        val securityContext: SecurityContext = SecurityContextHolder.getContext()
+        if (securityContext.authentication != null) {
             //        Add an account to a kweet
             val username = securityContext.authentication.name
             if (kweet.account == null) {
@@ -56,5 +62,12 @@ open class KweetHandler {
             kweet.timestamp = Instant.now().epochSecond
 
         }
+    }
+
+    @HandleAfterSave
+    @HandleAfterCreate
+    fun handleKweetAfterSave(kweet: Kweet) {
+        val it = "{\"message\":\"${kweet.message}\", \"timestamp\": \"${kweet.timestamp}\", \"account\": { \"username\": \"${kweet.account?.username}\"}, \"hearts\": ${kweet.hearts.size}}"
+        simpMessagingTemplate.convertAndSend("/topic/kweet", it)
     }
 }

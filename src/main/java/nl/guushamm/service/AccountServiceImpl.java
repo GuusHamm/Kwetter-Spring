@@ -42,6 +42,17 @@ public class AccountServiceImpl implements AccountService {
 		return accountRepository.findByUsername(username);
 	}
 
+	@Override
+	public Account findOrSave(Account account) {
+		List<Account> accounts  = findByUsername(account.getUsername());
+		if (accounts.size() == 0) {
+			save(account);
+		} else {
+			account = accounts.get(0);
+		}
+		return account;
+	}
+
 	public void setAccountRepository(AccountRepository accountRepository) {
 		this.accountRepository = accountRepository;
 	}

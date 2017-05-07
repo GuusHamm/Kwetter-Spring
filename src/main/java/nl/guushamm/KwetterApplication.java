@@ -41,14 +41,14 @@ public class KwetterApplication extends SpringBootServletInitializer {
 			// Login as an admin to create some kweets
 			Account account = testAccount();
 			SecurityContextHolder.getContext().setAuthentication(
-					new UsernamePasswordAuthenticationToken(account.getUsername(),account.getPassword(),
+					new UsernamePasswordAuthenticationToken(account.getUsername(), account.getPassword(),
 							AuthorityUtils.createAuthorityList(account.getRoles()))
 			);
 
-			ArrayList<Kweet> kweets  = testKweets(50, accounts);
+			ArrayList<Kweet> kweets = testKweets(50, accounts);
 			kweets.forEach(kweetService::save);
 
-			testHearts(100, accounts, kweets).forEach(heartService::save);
+			testHearts(20, accounts, kweets).forEach(heartService::save);
 			//
 			// ArrayList<Trend> trends = testTrends(10);
 			// trends.forEach(trendService::save);

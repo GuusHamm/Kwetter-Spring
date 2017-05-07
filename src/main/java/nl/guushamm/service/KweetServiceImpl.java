@@ -21,8 +21,7 @@ public class KweetServiceImpl implements KweetService {
 	@Autowired
 	private KweetHandler kweetHandler;
 
-	@Autowired
-	private AccountService accountService;
+
 
 	@Override
 	public List<Kweet> findAll() {
@@ -30,10 +29,11 @@ public class KweetServiceImpl implements KweetService {
 	}
 
 	@Override
-	public void save(Kweet kweet) {
+	public Kweet save(Kweet kweet) {
 		kweetHandler.handleKweetBeforeCreate(kweet);
-
 		kweetRepository.save(kweet);
+		kweetHandler.handleKweetAfterSave(kweet);
+		return kweet;
 	}
 
 	@Override

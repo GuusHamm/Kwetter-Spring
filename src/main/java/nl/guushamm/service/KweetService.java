@@ -21,7 +21,7 @@ public interface KweetService {
 	 *
 	 * @param kweet The kweet that has to be saved.
 	 */
-	void save(Kweet kweet);
+	Kweet save(Kweet kweet);
 
 	/**
 	 * Finds a specific kweet in the datastore.

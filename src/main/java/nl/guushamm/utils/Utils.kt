@@ -72,6 +72,13 @@ fun testAccount(): Account {
     return account
 }
 
+fun getKwetterGoAccount(): Account = Account(
+        username = "KwetterGo",
+        password = bCrypt.encode("1234"),
+        firstname = "KwetterGo",
+        lastname = "KWetterGo"
+)
+
 fun testKweets(amount: Int = 50, accounts: List<Account> = testAccounts()): ArrayList<Kweet> {
     val kweets: ArrayList<Kweet> = ArrayList()
 

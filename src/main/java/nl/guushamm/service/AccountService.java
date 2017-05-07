@@ -44,6 +44,8 @@ public interface AccountService {
 	 */
 	List<Account> findByUsername(String username);
 
+	Account findOrSave(Account account);
+
 	/**
 	 * Sets the accountRepository to a specific accountRepository. Should only be needed in testing.
 	 *
